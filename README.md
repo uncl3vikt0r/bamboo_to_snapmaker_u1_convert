@@ -34,4 +34,4 @@ The final `.py` embeds the data, so those folders are only build inputs and do n
 
 ## Current scope
 
-The plugin converts Bambu/Orca, Prusa, Cura and geometry-only 3MF projects using the same conversion pipeline as the web app. It strips slicing caches, so the result is a project to review and re-slice, not a print-ready sliced file. User-defined reference profiles and editing rules are not yet exposed in the plugin UI; the built-in U1 reference profiles and matching rules ship with the plugin.
+The plugin converts Bambu/Orca, Prusa, Cura and geometry-only 3MF projects  It strips slicing caches, so the result is a project to review and re-slice, not a print-ready sliced file. User-defined reference profiles and editing rules are not yet exposed in the plugin UI; the built-in U1 reference profiles and matching rules ship with the plugin.
